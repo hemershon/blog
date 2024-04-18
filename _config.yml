@@ -6,7 +6,7 @@ plugins: [jekyll-paginate-v2]
 
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 5
   permalink: "/page/:num/"
 
 comments: true
@@ -25,7 +25,7 @@ url: ""
 baseurl: ""
 
 google_analytics: UA-111493883-1
-repo: https://github.com/hemershon/hemershon.github.io
+repo: https://github.com/hemershon
 disqus_shortname: "Hemershon"
 disqus_site_shortname: "Hemershon"
 
