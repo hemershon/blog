@@ -33,7 +33,7 @@ disqus_site_shortname: "Hemershon"
 author:
   name: Hemershon Silva
   job: Software Engineer
-  bio: "Sou engenheiro de software que a 7 anos desenvolvo sistema para web"
+  bio: "Sou engenheiro de software que atua a 7 anos no desenvolvimento de sistema para web"
   thumb: /images/author.png
   email: hemershon@gmail.com
   url: ""
@@ -46,6 +46,8 @@ author:
 navbar:
   - slug: about
     title: Sobre
+  - slug: project
+    title: Projeto
   # - slug: icons
   #   title: Icons
   - slug: blog
